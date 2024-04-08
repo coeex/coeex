@@ -1,4 +1,4 @@
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="https://i.pinimg.com/originals/78/32/e8/7832e895ea123c853f49cb611c20e561.gif" height="240" width="370">
 </p>
